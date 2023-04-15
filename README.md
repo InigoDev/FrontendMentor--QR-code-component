@@ -11,7 +11,7 @@
 ## Tools
 
 - HTML
-- CSS (Flexbox & Grid)
+- CSS (Flexbox)
 
 ## Frontend Mentor -> Introduction
 
