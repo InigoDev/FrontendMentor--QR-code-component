@@ -16,7 +16,7 @@
 body {
   font-family: var(--body-font);
   background: var(--light-gray);
-  color: var(--text-color);
+  color: var(--grayish-blue);
 }
 
 p {
@@ -25,6 +25,7 @@ p {
 
 h1 {
   font-size: 1.4rem;
+  color: var(--dark-blue);
 }
 
 /* *** *** General Styles *** *** */
