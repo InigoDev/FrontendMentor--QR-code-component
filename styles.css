@@ -50,8 +50,8 @@ h1 {
   margin: 1rem;
 }
 
-.card__info > * {
-  padding: 0.7rem;
+.card__info>* {
+  padding: 0.6rem;
 }
 
 .card__img {
